@@ -42,3 +42,9 @@ li{
 li.is-flex{
     list-style: disc;
 }
+.has-background-info a{
+    color: inherit;
+}
+h2, h2 a{
+    color: purple;
+}
